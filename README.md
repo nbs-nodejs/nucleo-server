@@ -1,4 +1,4 @@
-# @nucleo-nodejs/server
+# @nbsdev/nucleo-server
 
 Servers Utilities for Node.js. Written in TypeScript. 
 

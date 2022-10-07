@@ -1,6 +1,6 @@
 {
-  "name": "@nucleo-nodejs/server",
-  "version": "0.0.1",
+  "name": "@nbsdev/nucleo-server",
+  "version": "0.1.0",
   "description": "Server Utilities for Node.js. Written in TypeScript.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
