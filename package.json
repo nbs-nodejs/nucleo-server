@@ -35,8 +35,5 @@
   },
   "files": [
     "lib/**/*"
-  ],
-  "publishConfig": {
-    "@nucleo-nodejs:registry": "https://code.nbs.dev/api/v4/projects/40/packages/npm/"
-  }
+  ]
 }
